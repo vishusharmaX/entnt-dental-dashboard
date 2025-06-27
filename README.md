@@ -35,8 +35,8 @@ A fully responsive **React-based frontend application** simulating a dental cent
 
 ## 🚀 Demo Links
 
-- **Live Demo:** [https://your-vercel-or-netlify-link.com](https://your-vercel-or-netlify-link.com)
-- **GitHub Repo:** [https://github.com/yourusername/entnt-dental-dashboard](https://github.com/yourusername/entnt-dental-dashboard)
+- **Live Demo:** [https://your-vercel-or-netlify-link.com](https://entnt-dental-dashboard.vercel.app/login)
+- **GitHub Repo:** [https://github.com/yourusername/entnt-dental-dashboard](https://github.com/vishusharmaX/entnt-dental-dashboard)
 
 ---
 
