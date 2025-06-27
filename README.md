@@ -76,5 +76,6 @@ Password: patient123
 
 ### 1. Clone the repo
 ```bash
-git clone 
+git clone https://github.com/vishusharmaX/entnt-dental-dashboard
 cd entnt-dental-dashboard
+npm run start
